@@ -7,7 +7,7 @@ Here you can find screenshots from some of my projects.
 
 <!-- <div align="center"> -->
 
-## [Capstone Project](https://github.com/cxhx441/space_invaders_8080)
+## [Capstone Project: Intel 8080 Emulator](https://github.com/cxhx441/space_invaders_8080)
 <a href="https://youtu.be/Q-t2x6y43j4?si=C5RvXJ1Ucmxoy_Ew&t=302"><img src="space_invaders_8080_bg1.gif" width="250"></a>
 
 ## [Zelda A Link to the Past Opening](https://github.com/cxhx441/cs450/tree/main/final_turn_in)
