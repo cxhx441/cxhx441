@@ -8,17 +8,17 @@ Here you can find screenshots from some of my projects.
 <div align="center">
 
 # [Capstone Project](https://github.com/cxhx441/space_invaders_8080)
-<a href="https://youtu.be/Q-t2x6y43j4?si=C5RvXJ1Ucmxoy_Ew&t=302"><img src="space_invaders_8080_bg1.gif" width="600"></a>
+<a href="https://youtu.be/Q-t2x6y43j4?si=C5RvXJ1Ucmxoy_Ew&t=302"><img src="space_invaders_8080_bg1.gif" width="400"></a>
 
 
 # [Property Line Noise Prediction](https://github.com/cxhx441/graphical-acoustic-calcs)
 <!-- <a href=""><img src="pl_acoustics_original.png" widht="800"></a> </br> -->
-<a href=""><img src="pl_acoustics_original_left.png" width="800"></a> </br>
-<a href=""><img src="pl_acoustics_original_right.png" width="800"></a> </br>
+<a href=""><img src="pl_acoustics_original_left.png" width="400"></a> </br>
+<a href=""><img src="pl_acoustics_original_right.png" width="400"></a> </br>
 
 
 # [Tetris](https://github.com/cxhx441/tetris)
-<a href=""><img src="tetris.gif"></a> </br>
+<a href=""><img src="tetris.gif" width="400"></a> </br>
 
 
 # [Ray Tracer Challenge (IN PROGRESS)](https://github.com/cxhx441/ray-tracer-challenge)
