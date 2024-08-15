@@ -13,18 +13,18 @@ Here you can find screenshots from some of my projects.
 
 # [Property Line Noise Prediction](https://github.com/cxhx441/graphical-acoustic-calcs)
 <!-- <a href=""><img src="pl_acoustics_original.png" widht="800"></a> </br> -->
-<a href=""><img src="pl_acoustics_original_left.png" width="600"></a> </br>
-<a href=""><img src="pl_acoustics_original_right.png" width="600"></a> </br>
+<a href="https://github.com/cxhx441/graphical-acoustic-calcs"><img src="pl_acoustics_original_left.png" width="600"></a> </br>
+<a href="https://github.com/cxhx441/graphical-acoustic-calcs"><img src="pl_acoustics_original_right.png" width="600"></a> </br>
 
 
 # [Tetris](https://github.com/cxhx441/tetris)
-<a href=""><img src="tetris.gif" width="400"></a> </br>
+<a href="https://github.com/cxhx441/tetris"><img src="tetris.gif" width="400"></a> </br>
 
 
 # [Ray Tracer Challenge (IN PROGRESS)](https://github.com/cxhx441/ray-tracer-challenge)
-<a href=""><img src="0_projectile.png" width="300"></a> </br>
-<a href=""><img src="1_clock.png" width="300"></a> </br>
-<a href=""><img src="2_sheared_sphere.png" width="300"></a> </br>
+<a href="https://github.com/cxhx441/ray-tracer-challenge"><img src="0_projectile.png" width="300"></a> </br>
+<a href="https://github.com/cxhx441/ray-tracer-challenge"><img src="1_clock.png" width="300"></a> </br>
+<a href="https://github.com/cxhx441/ray-tracer-challenge"><img src="2_sheared_sphere.png" width="300"></a> </br>
 
 </br>
 </div>
