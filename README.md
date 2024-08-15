@@ -26,7 +26,7 @@ Here you can find screenshots from some of my projects.
 
 
 # [Tetris](https://github.com/cxhx441/tetris)
-<a href="https://github.com/cxhx441/tetris"><img src="tetris.gif" height="325"></a> </br>
+<a href="https://github.com/cxhx441/tetris"><img src="tetris.gif" height="275"></a> </br>
 
 
 # [Ray Tracer Challenge (IN PROGRESS)](https://github.com/cxhx441/ray-tracer-challenge)
