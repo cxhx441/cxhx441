@@ -23,7 +23,7 @@ Here you can find screenshots from some of my projects.
 <!-- <a href="https://github.com/cxhx441/graphical-acoustic-calcs"><img src="pl_acoustics_original_right.png" width="500"></a> </br> -->
 
 
-## [Tetris](https://github.com/cxhx441/tetris)
+## [Command-Line Tetris](https://github.com/cxhx441/tetris)
 <img src="tetris.gif" height="250"> </br>
 
 
