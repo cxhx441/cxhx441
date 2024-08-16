@@ -15,9 +15,7 @@ Here you can find screenshots from some of my projects.
 
 
 ## [Chladni Plate Shader Sim](https://github.com/cxhx441/cs457/blob/main/visual_studio/OpenGL_FinalProject/OpenGL/src/Application.cpp)
-<img src="chladni_1.gif" height="250">
-<img src="chladni_2.gif" height="250">
-<img src="chladni_3.gif" height="250">
+<img src="chladni_1.gif" height="250"> <img src="chladni_2.gif" height="250"> <img src="chladni_3.gif" height="250">
 
 ## [Property Line Noise Prediction](https://github.com/cxhx441/graphical-acoustic-calcs)
 <!-- <a href=""><img src="pl_acoustics_original.png" width="800"></a> </br> -->
@@ -30,9 +28,7 @@ Here you can find screenshots from some of my projects.
 
 
 ## [Ray Tracer Challenge (IN PROGRESS)](https://github.com/cxhx441/ray-tracer-challenge)
-<img src="0_projectile.png" height="200">
-<img src="1_clock.png" height="200">
-<img src="2_sheared_sphere.png" height="200"></br>
+<img src="0_projectile.png" height="200"> <img src="1_clock.png" height="200"> <img src="2_sheared_sphere.png" height="200"></br>
 
 </br>
 </div>
