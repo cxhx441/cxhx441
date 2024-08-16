@@ -15,9 +15,9 @@ Here you can find screenshots from some of my projects.
 
 
 ## [Chladni Plate Shader Sim](https://github.com/cxhx441/cs457/blob/main/visual_studio/OpenGL_FinalProject/OpenGL/src/Application.cpp)
-<a href="https://www.youtube.com/watch?v=Nt-PviVG6I8"><img src="chladni_1.gif" height="250"></a>
-<a href="https://www.youtube.com/watch?v=Nt-PviVG6I8"><img src="chladni_2.gif" height="250"></a>
-<a href="https://www.youtube.com/watch?v=Nt-PviVG6I8"><img src="chladni_3.gif" height="250"></a>
+<img src="chladni_1.gif" height="250">
+<img src="chladni_2.gif" height="250">
+<img src="chladni_3.gif" height="250">
 
 ## [Property Line Noise Prediction](https://github.com/cxhx441/graphical-acoustic-calcs)
 <!-- <a href=""><img src="pl_acoustics_original.png" width="800"></a> </br> -->
