@@ -8,10 +8,10 @@ Here you can find screenshots from some of my projects.
 <!-- <div align="center"> -->
 
 ## [Capstone Project: Intel 8080 Emulator](https://github.com/cxhx441/space_invaders_8080)
-<a href="https://youtu.be/Q-t2x6y43j4?si=C5RvXJ1Ucmxoy_Ew&t=302"><img src="space_invaders_8080_bg1.gif" width="250"></a>
+<img src="space_invaders_8080_bg1.gif" width="250">
 
 ## [Zelda A Link to the Past Opening](https://github.com/cxhx441/cs450/tree/main/final_turn_in)
-<a href="https://www.youtube.com/watch?v=-wlZx1zSGcs"><img src="zelda_alttp.gif" height="200"></a>
+<img src="zelda_alttp.gif" height="200">
 
 
 ## [Chladni Plate Shader Sim](https://github.com/cxhx441/cs457/blob/main/visual_studio/OpenGL_FinalProject/OpenGL/src/Application.cpp)
@@ -21,18 +21,18 @@ Here you can find screenshots from some of my projects.
 
 ## [Property Line Noise Prediction](https://github.com/cxhx441/graphical-acoustic-calcs)
 <!-- <a href=""><img src="pl_acoustics_original.png" width="800"></a> </br> -->
-<a href="https://github.com/cxhx441/graphical-acoustic-calcs"><img src="pl_acoustics_original_left.png" width="500"></a> </br>
+<img src="pl_acoustics_original_left.png" width="500"></br>
 <!-- <a href="https://github.com/cxhx441/graphical-acoustic-calcs"><img src="pl_acoustics_original_right.png" width="500"></a> </br> -->
 
 
 ## [Tetris](https://github.com/cxhx441/tetris)
-<a href="https://github.com/cxhx441/tetris"><img src="tetris.gif" height="250"></a> </br>
+<img src="tetris.gif" height="250"> </br>
 
 
 ## [Ray Tracer Challenge (IN PROGRESS)](https://github.com/cxhx441/ray-tracer-challenge)
-<a href="https://github.com/cxhx441/ray-tracer-challenge"><img src="0_projectile.png" height="200"></a>
-<a href="https://github.com/cxhx441/ray-tracer-challenge"><img src="1_clock.png" height="200"></a>
-<a href="https://github.com/cxhx441/ray-tracer-challenge"><img src="2_sheared_sphere.png" height="200"></a> </br>
+<img src="0_projectile.png" height="200">
+<img src="1_clock.png" height="200">
+<img src="2_sheared_sphere.png" height="200"></br>
 
 </br>
 </div>
