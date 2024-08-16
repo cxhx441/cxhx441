@@ -24,7 +24,7 @@ Here you can find screenshots from some of my projects.
 
 
 ## [Command-Line Tetris](https://github.com/cxhx441/tetris)
-<img src="tetris.gif" height="250"> </br>
+<img src="tetris_good.gif" height="250"> <img src="tetris_bad.gif" height="250"> </br>
 
 
 ## [Ray Tracer Challenge (IN PROGRESS)](https://github.com/cxhx441/ray-tracer-challenge)
