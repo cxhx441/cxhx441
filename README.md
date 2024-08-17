@@ -28,7 +28,8 @@ Here you can find screenshots from some of my projects.
 
 
 ## [Ray Tracer Challenge (IN PROGRESS)](https://github.com/cxhx441/ray-tracer-challenge)
-<img src="0_projectile.png" height="200"> <img src="1_clock.png" height="200"> <img src="2_sheared_sphere.png" height="200"></br>
+<img src="0_projectile.png" height="200"> <img src="1_clock.png" height="200"> <img src="2_sheared_sphere.png" height="200"> <img src="3_phong_lit_sphere.png" height="200">
+</br>
 
 </br>
 </div>
