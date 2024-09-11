@@ -34,9 +34,7 @@ Here you can find screenshots from some of my projects.
 <img src="9_planes_3.jpg" width="400">
 <img src="10_patterns_spheres.png" width="400">
 
-<img src="11_hollow_random_overlap.png" height="200">
-<img src="11_hollow_glass_inside.png" height="200">
-<img src="11_hollow_glass_color.png" height="200">
+<img src="11_hollow_random_overlap.png" height="200"> <img src="11_hollow_glass_inside.png" height="200"> <img src="11_hollow_glass_color.png" height="200">
 
 <img src="12_ice_cream.png" height="200"></br>
 
